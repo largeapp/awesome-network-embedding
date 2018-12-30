@@ -1,14 +1,9 @@
-forked from [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) and edited by [Dr. Jinlong Hu](https://largeapp.github.io/).
-# awesome-network-embedding
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
+forked from [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) and edited by this branch.
+# network embedding
 
 Also called network representation learning, graph embedding, knowledge embedding, etc.
 
-The task is to learn the representations of the vertices from a given network.
-
-CALL FOR HELP: I'm planning to re-organize the papers with clear classification index in the near future. Please feel free to submit a commit if you find any interesting related work:)
+The task is to learn the representations of the vertices or ... from a given network.
 
 <img src="NE.png" width="480">
 
@@ -339,8 +334,6 @@ Learning](https://arxiv.org/abs/1804.06111)
 # Related Project
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
-
-# ----cutline---added by this branch starting from this line-----
 
 # Related Notes from Internet
 **认识“网络嵌入法”** [weblink](http://scholarsupdate.hi2net.com/news.asp?NewsID=25310)
