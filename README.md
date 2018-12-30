@@ -263,94 +263,94 @@ The task is to learn the representations of the vertices or ... from a given net
 #### Paper List
 1. [Paper list with classification index](https://github.com/largeapp/awesome-graph-embedding)
 
-2. [Paper list without classification index](https://github.com/largeapp/NRLPapers), more frequently updated.
+1. [Paper list without classification index](https://github.com/largeapp/NRLPapers), more frequently updated.
 
 #### some paper references
-[Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf), NIPS'18
+1. [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf), NIPS'18
 
-**SEMAC**, [Link Prediction via Subgraph Embedding-Based Convex Matrix Completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16442), AAAI 2018, [Slides](https://www.slideshare.net/gdm3003/semac-graph-node-embeddings-for-link-prediction)
+1. **SEMAC**, [Link Prediction via Subgraph Embedding-Based Convex Matrix Completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16442), AAAI 2018, [Slides](https://www.slideshare.net/gdm3003/semac-graph-node-embeddings-for-link-prediction)
 
-**MILE**, [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://arxiv.org/pdf/1802.09612.pdf), arxiv'18
+1. **MILE**, [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://arxiv.org/pdf/1802.09612.pdf), arxiv'18
 
-**MetaGraph2Vec**, [MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding](https://arxiv.org/abs/1803.02533)
+1. **MetaGraph2Vec**, [MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding](https://arxiv.org/abs/1803.02533)
 
-**PinSAGE**, [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
+1. **PinSAGE**, [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
 
-[Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3159711), WSDM '18
+1. [Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3159711), WSDM '18
 
-[Adversarial Network Embedding](https://arxiv.org/abs/1711.07838), arxiv
+1. [Adversarial Network Embedding](https://arxiv.org/abs/1711.07838), arxiv
 
-**Role2Vec**, [Learning Role-based Graph Embeddings](https://arxiv.org/abs/1802.02896)
+1. **Role2Vec**, [Learning Role-based Graph Embeddings](https://arxiv.org/abs/1802.02896)
 
-**edge2vec**, [Feature Propagation on Graph: A New Perspective to Graph Representation
+1. **edge2vec**, [Feature Propagation on Graph: A New Perspective to Graph Representation
 Learning](https://arxiv.org/abs/1804.06111)
 
-**MINES**, [Multi-Dimensional Network Embedding with Hierarchical Structure](http://cse.msu.edu/~mayao4/downloads/Multidimensional_Network_Embedding_with_Hierarchical_Structure.pdf)
+1. **MINES**, [Multi-Dimensional Network Embedding with Hierarchical Structure](http://cse.msu.edu/~mayao4/downloads/Multidimensional_Network_Embedding_with_Hierarchical_Structure.pdf)
 
-[Walk-Steered Convolution for Graph Classification](https://arxiv.org/abs/1804.05837)
+1. [Walk-Steered Convolution for Graph Classification](https://arxiv.org/abs/1804.05837)
 
-[Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829), arxiv'17
+1. [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829), arxiv'17
 
-[Fast Linear Model for Knowledge Graph Embeddings](https://arxiv.org/abs/1710.10881), arxiv'17
+1. [Fast Linear Model for Knowledge Graph Embeddings](https://arxiv.org/abs/1710.10881), arxiv'17
 
-[Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec](https://arxiv.org/abs/1710.02971), arxiv'17
+1. [Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec](https://arxiv.org/abs/1710.02971), arxiv'17
 
-[A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/abs/1709.07604), arxiv'17
+1. [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/abs/1709.07604), arxiv'17
 
-[Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf), IEEE DEB'17
+1. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf), IEEE DEB'17
 
-**CONE**, [CONE: Community Oriented Network Embedding](https://arxiv.org/abs/1709.01554), arxiv'17
+1. **CONE**, [CONE: Community Oriented Network Embedding](https://arxiv.org/abs/1709.01554), arxiv'17
 
-**LANE**, 
+1. **LANE**, 
 [Label Informed Attributed Network Embedding](http://dl.acm.org/citation.cfm?id=3018667), WSDM'17
 
-**Graph2Gauss**,
+1. **Graph2Gauss**,
 [Deep Gaussian Embedding of Attributed Graphs: Unsupervised Inductive Learning via Ranking](https://arxiv.org/abs/1707.03815), arxiv
 [[Bonus Animation]](https://twitter.com/abojchevski/status/885502050133585925)
 
-[Scalable Graph Embedding for Asymmetric Proximity](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696), AAAI'17
+1. [Scalable Graph Embedding for Asymmetric Proximity](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696), AAAI'17
 
-[Query-based Music Recommendations via Preference Embedding](http://dl.acm.org/citation.cfm?id=2959169), RecSys'16
+1. [Query-based Music Recommendations via Preference Embedding](http://dl.acm.org/citation.cfm?id=2959169), RecSys'16
 
-[Tri-party deep network representation](http://dl.acm.org/citation.cfm?id=3060886), IJCAI'16
+1. [Tri-party deep network representation](http://dl.acm.org/citation.cfm?id=3060886), IJCAI'16
 
-[Heterogeneous Network Embedding via Deep Architectures](http://dl.acm.org/citation.cfm?id=2783296), KDD'15
+1. [Heterogeneous Network Embedding via Deep Architectures](http://dl.acm.org/citation.cfm?id=2783296), KDD'15
 
-[Neural Word Embedding As Implicit Matrix Factorization](http://dl.acm.org/citation.cfm?id=2969070), NIPS'14
+1. [Neural Word Embedding As Implicit Matrix Factorization](http://dl.acm.org/citation.cfm?id=2969070), NIPS'14
 
-[Distributed large-scale natural graph factorization](http://dl.acm.org/citation.cfm?id=2488393), WWW'13
+1. [Distributed large-scale natural graph factorization](http://dl.acm.org/citation.cfm?id=2488393), WWW'13
 
-[From Node Embedding To Community Embedding](https://arxiv.org/abs/1610.09950), arxiv
+1. [From Node Embedding To Community Embedding](https://arxiv.org/abs/1610.09950), arxiv
 
-[Walklets: Multiscale Graph Embeddings for Interpretable Network Classification](https://arxiv.org/abs/1605.02115), arxiv
+1. [Walklets: Multiscale Graph Embeddings for Interpretable Network Classification](https://arxiv.org/abs/1605.02115), arxiv
 
-[Comprehend DeepWalk as Matrix Factorization](https://arxiv.org/abs/1501.00358), arxiv
+1. [Comprehend DeepWalk as Matrix Factorization](https://arxiv.org/abs/1501.00358), arxiv
 
 # Conference & Workshop
 
-[13th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2017/), **MLG'17**
+1. [13th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2017/), **MLG'17**
 
-[WWW-18 Tutorial Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/), **WWW'18**
+1. [WWW-18 Tutorial Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/), **WWW'18**
 
 # Related Resource List
 
-[awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+1. [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 
-[Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
+1. [Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
 
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
+1. [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 
-[Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)
+1. [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)
 
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
+1. [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 
-[2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
+1. [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
 
 # Related Projects
 
-**Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
+- **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
 
 # Related Notes
-**认识“网络嵌入法”** [weblink](http://scholarsupdate.hi2net.com/news.asp?NewsID=25310)
+- **认识“网络嵌入法”** [weblink](http://scholarsupdate.hi2net.com/news.asp?NewsID=25310)
 
 
