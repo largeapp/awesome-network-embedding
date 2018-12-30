@@ -6,13 +6,13 @@ The task is to learn the representations of the vertices or ... from a given net
 
 <img src="NE.png" width="480">
 
-#### Related Resources
-1. [Table of resource contents](https://github.com/largeapp/awesome-network-embedding), this branch.
+#### Related Resource Outline
+1. [Table of resource contents](https://github.com/largeapp/awesome-network-embedding), this page.
 2. [Paper list with simple classification index](https://github.com/largeapp/awesome-graph-embedding)
 3. [Paper list without classification index](https://github.com/largeapp/NRLPapers), more frequently updated.
 
 
-##### Table of Contents  
+##### Table of Contents in this page
 1. [Paper References with the implementation](#paper-references-with-the-implementations) 
 2. [Paper References](#paper-references)
 3. [Conference & Workshop](#conference--workshop)
