@@ -1,4 +1,3 @@
-forked from [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) and edited by this branch.
 # network embedding
 
 Also called network representation learning, graph embedding, knowledge embedding, etc.
@@ -6,6 +5,11 @@ Also called network representation learning, graph embedding, knowledge embeddin
 The task is to learn the representations of the vertices or ... from a given network.
 
 <img src="NE.png" width="480">
+
+#### Related Resources
+1. [Table of resource contents](https://github.com/largeapp/awesome-network-embedding), this branch.
+2. [Paper list with simple classification index](https://github.com/largeapp/awesome-graph-embedding)
+3. [Paper list without classification index](https://github.com/largeapp/NRLPapers), more frequently updated.
 
 # Paper References with the implementation(s)
 
