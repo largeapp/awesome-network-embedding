@@ -11,6 +11,15 @@ The task is to learn the representations of the vertices or ... from a given net
 2. [Paper list with simple classification index](https://github.com/largeapp/awesome-graph-embedding)
 3. [Paper list without classification index](https://github.com/largeapp/NRLPapers), more frequently updated.
 
+
+##### Table of Contents  
+1. [Paper References with the implementation](#paper-references-with-the-implementations) 
+2. [Paper References](#paper-references)
+3. [Conference & Workshop](#conference--workshop)
+4. [Related resource List](#related-resource-list)
+5. [Related Projects](#related-projects)
+6. [Related Notes](#related-notes)
+
 # Paper References with the implementation(s)
 
 - **SGCN**
@@ -250,7 +259,11 @@ The task is to learn the representations of the vertices or ... from a given net
 
 
 # Paper References
+1. [Paper list with classification index](https://github.com/largeapp/awesome-graph-embedding)
 
+2. [Paper list without classification index](https://github.com/largeapp/NRLPapers), more frequently updated.
+
+#### some paper list
 [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf), NIPS'18
 
 **SEMAC**, [Link Prediction via Subgraph Embedding-Based Convex Matrix Completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16442), AAAI 2018, [Slides](https://www.slideshare.net/gdm3003/semac-graph-node-embeddings-for-link-prediction)
@@ -317,17 +330,13 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [WWW-18 Tutorial Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/), **WWW'18**
 
-# Related List
-
-[awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+# Related resource List
 
 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
-
-[Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
-
 [Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
+
+[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 
 [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)
 
@@ -339,7 +348,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
 
-# Related Notes from Internet
+# Related Notes
 **认识“网络嵌入法”** [weblink](http://scholarsupdate.hi2net.com/news.asp?NewsID=25310)
 
 
