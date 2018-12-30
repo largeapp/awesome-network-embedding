@@ -340,3 +340,9 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
 
+# -----added by largeapp----------cutline-----分割线----------------------------------------------------------
+
+# Related Notes from Internet 网上的相关笔记 
+**认识“网络嵌入法”** [weblink](http://scholarsupdate.hi2net.com/news.asp?NewsID=25310)
+
+
