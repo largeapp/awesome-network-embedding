@@ -259,11 +259,13 @@ The task is to learn the representations of the vertices or ... from a given net
 
 
 # Paper References
+
+#### Paper List
 1. [Paper list with classification index](https://github.com/largeapp/awesome-graph-embedding)
 
 2. [Paper list without classification index](https://github.com/largeapp/NRLPapers), more frequently updated.
 
-#### some paper list
+#### some paper references
 [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf), NIPS'18
 
 **SEMAC**, [Link Prediction via Subgraph Embedding-Based Convex Matrix Completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16442), AAAI 2018, [Slides](https://www.slideshare.net/gdm3003/semac-graph-node-embeddings-for-link-prediction)
@@ -330,7 +332,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [WWW-18 Tutorial Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/), **WWW'18**
 
-# Related resource List
+# Related Resource List
 
 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 
@@ -344,7 +346,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
 
-# Related Project
+# Related Projects
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
 
