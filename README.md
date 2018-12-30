@@ -1,4 +1,4 @@
-forked from [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
+forked from [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) and edited by largeapp.
 # awesome-network-embedding
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -340,7 +340,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
 
-# -----added by largeapp----------cutline-----分割线----------------------------------------------------------
+# -------cutline-----分割线------added by largeapp--starting from this line-----
 
 # Related Notes from Internet 网上的相关笔记 
 **认识“网络嵌入法”** [weblink](http://scholarsupdate.hi2net.com/news.asp?NewsID=25310)
