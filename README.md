@@ -16,7 +16,7 @@ The task is to learn the representations of the vertices or ... from a given net
 1. [Paper References with the implementation](#paper-references-with-the-implementations) 
 2. [Paper References](#paper-references)
 3. [Conference & Workshop](#conference--workshop)
-4. [Related resource List](#related-resource-list)
+4. [Related Resource List](#related-resource-list)
 5. [Related Projects](#related-projects)
 6. [Related Notes](#related-notes)
 
